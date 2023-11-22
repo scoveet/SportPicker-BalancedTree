@@ -1,0 +1,41 @@
+27
+(0)Do you like ball?
+(1)Do you not like ice?
+(2)Small ball?
+(3)fight?
+(4)kicking ?
+(5)contact sport?
+(6)running?
+(7)wanna do pro skating?
+(8)wanna do pro hockey?
+(9)wanna do pro jijisu?
+(10)wanna do pro karate?
+(11)wanna do pro volleyball?
+(12)wanna do pro basketball?
+(13)go play pro table tennis.
+(14)go play pro tennis.
+(15)rec skating.
+(16)pro skating.
+(17)rec hockey.
+(18)pro hockey.
+(19)rec jijisu.
+(20)pro jijisu.
+(21)rec karate.
+(22)pro karate.
+(23)rec volleyball
+(24)pro volleyball
+(25)rec bball.
+(26)pro bball.
+6 13 14
+7 15 16
+8 17 18
+9 19 20
+10 21 22
+11 23 24
+12 25 26
+3 7 8
+4 9 10
+5 11 12
+1 3 4
+2 5 6
+0 1 2
